@@ -45,10 +45,6 @@ Aslam bhatti                   256034
 
 Poonam                         256615
 
-Pawanpreet Kaur                255136
-
-Smriti Sharma karwar           254133
-
 
 ## Quick Navigation
 
@@ -490,5 +486,6 @@ You've completed Feedback 4.0! You can now identify AI and traditional feedback 
 ✅ Ethical principles for AI integration
 
 **Next Steps:** Implement your feedback plan, share with colleagues, and continue iterating!
+
 
 </div>
